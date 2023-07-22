@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../ClassyClash.RayLib"
+		},
+		{
+			"path": "../../raylib-games"
+		}
+	],
+	"settings": {}
+}
